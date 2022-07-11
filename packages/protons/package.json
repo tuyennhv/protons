@@ -149,7 +149,7 @@
   },
   "dependencies": {
     "meow": "^10.1.2",
-    "protobufjs": "^6.11.2"
+    "protobufjs": "^7.0.0"
   },
   "devDependencies": {
     "aegir": "^37.0.5",
